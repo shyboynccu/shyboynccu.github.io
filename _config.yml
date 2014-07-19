@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            pyMatttk
+tagline:          Keep clam and code on
+url:              http://shyboynccu.github.io
+paginate:         1
+baseurl:          /
+author:
+  name:           
+  url:            https://twitter.com/maaattk
+  email:          
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           

@@ -1,22 +1,12 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
+# Site settings
+title: Keep Calm and Code On
+email: khl@khliu.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+baseurl: ""
+url: "http://www.khliu.com"
+twitter_username: maaattk
+github_username:  shyboynccu
 
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            pyMatttk
-tagline:          Keep clam and code on
-url:              http://shyboynccu.github.io
-paginate:         1
-baseurl:          /
-author:
-  name:           
-  url:            https://twitter.com/maaattk
-  email:          
-
-# Custom vars
-version:          1.0.0
-github:
-  repo:           
+# Build settings
+markdown: kramdown
+permalink: pretty
